@@ -1,0 +1,10 @@
+def rotate(self, nums, k):
+        placeholder = 0
+        extra = 0
+        for time in range(k):
+            placeholder = nums[-1]
+            for i in range(len(nums)-1):
+                item = nums[i] #pick up w left
+                nums[i] = placeholder # put down w right, right is empty
+                placeholder = item # Switch hand thats free, og value is in right
+            nums[-1] = placeholder
