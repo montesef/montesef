@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @montesef
-- 👀 I’m interested in ... combining Math with CS like in cryptography, data science, or software engineering
-- 🌱 I’m currently learning ... MATLAB
-- 💞️ I’m looking to collaborate on ... Anything? I am still figuring out Github
+- 👋 Hi, I’m @montesef, a Data Scientist with experience in Neural Networks and Natural Language Processing.
+- 👀 I’m interested in ... data science roles where I can expand on my skills in machine learning
+- 🌱 I’m currently learning ... Power BI
+- 💞️ I’m looking to collaborate on ... open-source data science projects, especially those at the intersection of NLP and audio. I'm passionate about using LLMs to build new tools for understanding speech and sound
 - 📫 How to reach me ... Through email!: ethanf@themontes.net
 - ⚡ Fun fact: ... I can play three different instruments including the viola, guitar, and piano
 
